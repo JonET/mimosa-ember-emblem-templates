@@ -9,4 +9,4 @@ exports.config =
         enabled: true    # Whether or not to use the Ember Handlebars compiler
         path: 'ember'    # location of the Ember library, requirejs path
   server:
-    path: 'server.js'
+    path: 'server.coffee'

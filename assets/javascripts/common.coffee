@@ -17,7 +17,7 @@ requirejs.config
     handlebars: "vendor/handlebars/1.0.0/handlebars"
     ember: "vendor/ember/1.0.0-rc.7/ember"
     jqueryui: "vendor/jquery.ui/1.10.0/jquery-ui"
-    bootstrap: "vendor/bootstrap/2.3.0/bootstrap"
+    bootstrap: "vendor/bootstrap/bootstrap"
   hbs:
     disableI18n: true
     templateExtension: "html"
